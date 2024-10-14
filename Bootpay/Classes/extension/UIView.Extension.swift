@@ -5,8 +5,7 @@
 //  Created by Taesup Yoon on 2022/06/03.
 //
 
-import Foundation
-
+import UIKit
 
 extension UIView {
   public var safeTopAnchor: NSLayoutYAxisAnchor {
